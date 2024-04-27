@@ -24,13 +24,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "XiaokunFeng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Institute of Automation, Chinese Academy of Sciences (CASIA)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=NqXtIPIAAAAJ"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=NqXtIPIAAAAJ&hl=zh-CN&oi=ao"
+  email            : "fengxiaokun2022@ia.ac.cn"
+  researchgate     : "https://www.researchgate.net/profile/Xiaokun-Feng-2"# e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           :  "XiaokunFeng"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
