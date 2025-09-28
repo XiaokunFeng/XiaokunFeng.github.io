@@ -74,7 +74,7 @@ Beijing Institute of Technology, Beijing
 
 ## ☑️ Ongoing Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='images/narrlv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Under Review</div><img src='images/narrlv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation**
 
