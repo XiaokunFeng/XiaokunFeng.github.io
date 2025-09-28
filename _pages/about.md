@@ -32,7 +32,7 @@ Currently, my research focuses on video multimodal tracking and video generation
 - **2025.06**: 📝Two papers ([ATCTrack](https://arxiv.org/pdf/2507.19875?), [VMBench](https://arxiv.org/pdf/2503.10076)) have been accepted by International Conference on Computer Vision (**ICCV**, CCF-A conference). ATCTrack was recognized as a **<font color=DarkRed>Highlight</font>** paper.
 - **2025.05**: 📝One paper ([CSTrack](https://arxiv.org/pdf/2505.19434?)) has been accepted by International Conference on Machine Learning (**ICML**, CCF-A conference). 
 - **2025.01**: 📝One paper ([CTVLT](https://arxiv.org/pdf/2412.19648)) has been accepted by IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**, CCF-B conference). 
-- **2024.09**: 📝Two papers ([MemVLT](https://huuuuusy.github.io/#MemVLT) and [CPDTrack](https://huuuuusy.github.io/#CPDTrack)) have been accepted by Conference on Neural Information Processing Systems (NeurIPS, CCF-A Conference).
+- **2024.09**: 📝Two papers ([MemVLT](https://huuuuusy.github.io/#MemVLT) and [CPDTrack](https://huuuuusy.github.io/#CPDTrack)) have been accepted by Conference on Neural Information Processing Systems (**NeurIPS**, CCF-A Conference).
 - **2024.04**: 📣 We will present our work (**Global Instance Tracking**) at **TPAMI2023** during the [**VALSE2024**](http://www.valser.org/2024/#/) poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in visual object/language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us (see our [**Poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information).
 - **2024.04**: 📝 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted by the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge as **Oral Presentation** (**CVPRW**, Workshop in CCF-A Conference, Oral)!
 - **2023.09**: 📝 One [**paper**](https://xuchen-li.github.io/#MGIT) has been accepted by the 37th Conference on Neural Information Processing Systems (**NeurIPS**, CCF-A Conference, Poster)!
@@ -74,13 +74,12 @@ Beijing Institute of Technology, Beijing
 
 ## ☑️ Ongoing Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='images/MemVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='images/narrlv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Remembering Target More Like Humans: A Robust Visual-Language Tracker with Adaptive Prompts**
+**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation**
 
-**[Xiaokun Feng](https://github.com/XiaokunFeng)**, Xuchen Li, [Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://wmeiqi.github.io/), [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+**[Xiaokun Feng](https://github.com/XiaokunFeng)**, XHaiming Yu, [Meiqi Wu](https://wmeiqi.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), et.al
 
-NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
 </div>
 </div>
 
