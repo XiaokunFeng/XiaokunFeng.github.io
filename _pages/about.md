@@ -81,9 +81,12 @@ Beijing Institute of Technology, Beijing
   
 **NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation**
 
-***<font color=DarkRed>XiaoKun Feng</font>***, Haiming Yu, [Meiqi Wu](https://wmeiqi.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), et.al
+***<font color=DarkRed>Xiaokun Feng</font>***, Haiming Yu, [Meiqi Wu](https://wmeiqi.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), et.al
 
 Under Review
+
+📌 Long Video Generation 📌 Perception-Aligned Evaluation 📌 Narrative Content Assessment<br>
+[📃 Paper](https://arxiv.org/pdf/2507.11245?)
 </div>
 </div>
 
@@ -94,9 +97,12 @@ Under Review
   
 **$S^2$-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models**
 
-Chubin Chen, Jiashu Zhu, ***<font color=DarkRed>XiaoKun Feng</font>***, et.al
+Chubin Chen, Jiashu Zhu, ***<font color=DarkRed>Xiaokun Feng</font>***, et.al
 
 Under Review
+
+📌 Diffusion Models 📌 Guidance Optimization 📌 Stochastic Sub-Network Techniques<br>
+[📃 Paper](https://arxiv.org/pdf/2508.12880)
 </div>
 </div>
 
@@ -108,9 +114,12 @@ Under Review
   
 **Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation**
 
-Fangyuan Mao, Aiming Hao, Jintao Chen, Dongxia Liu, ***<font color=DarkRed>XiaoKun Feng</font>***, et.al
+Fangyuan Mao, Aiming Hao, Jintao Chen, Dongxia Liu, ***<font color=DarkRed>Xiaokun Feng</font>***, et.al
 
 Under Review
+
+📌 Visual Effects Generation 📌 Multi-Effect Spatial Control 📌 Prompt-Guided Generation<br>
+[📃 Paper](https://arxiv.org/pdf/2508.07981)
 </div>
 </div>
 
@@ -124,10 +133,10 @@ Under Review
 <span class='anchor' id='cos'></span>
 
 **Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Reward**<br>
-Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>XiaoKun Feng</font>***\*, et.al <br>
+Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>Xiaokun Feng</font>***\*, et.al <br>
 *NeurIPS 2025 (CCF-A Conference)*<br>
-📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
-[📃 Paper](https://arxiv.org/abs/2507.19875)
+📌 Multimodal Large Language Model 📌 Reinforcement Learning for Reasoning 📌 Process Reward Model<br>
+[📃 Paper](https://arxiv.org/pdf/2509.19003)
 </div>
 </div>
 
@@ -137,10 +146,10 @@ Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>XiaoKun Feng</font>***\*, e
 <span class='anchor' id='atctrack'></span>
 
 **ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking**<br>
-***<font color=DarkRed>XiaoKun Feng</font>***\*, [Shiyu, Hu\*](https://huuuuusy.github.io/), [Xuchen, Li](https://github.com/Xuchen-Li), [DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), et.al <br>
+***<font color=DarkRed>Xiaokun Feng</font>***\*, [Shiyu, Hu\*](https://huuuuusy.github.io/), [Xuchen, Li](https://github.com/Xuchen-Li), [DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), et.al <br>
 *ICCV 2025 (CCF-A Conference, **<font color=DarkRed>Highlight</font>**)*<br>
-📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
-[📃 Paper](https://arxiv.org/abs/2507.19875)
+📌 Visual Language Tracking 📌 Vision-Language Alignment 📌 Adaptive Prompts<br>
+[📃 Paper](https://arxiv.org/pdf/2507.19875)
 </div>
 </div>
 
@@ -151,9 +160,9 @@ Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>XiaoKun Feng</font>***\*, e
 <span class='anchor' id='vmbench'></span>
 
 **VMBench: A Benchmark for Perception-Aligned Video Motion Generation**<br>
-***Xinran Ling, Chen Zhu, Meiqi Wu, Hangyu Li, <font color=DarkRed>XiaoKun Feng</font>***\*, et.al <br>
+***Xinran Ling, Chen Zhu, Meiqi Wu, Hangyu Li, <font color=DarkRed>Xiaokun Feng</font>***\*, et.al <br>
 *ICCV 2025 (CCF-A Conference)*<br>
-📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+📌 Video Generation 📌 Perception-Aligned Evaluation 📌 Motion Quality Assessment<br>
 [📃 Paper](https://arxiv.org/pdf/2503.10076)
 </div>
 </div>
@@ -165,9 +174,9 @@ Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>XiaoKun Feng</font>***\*, e
 <span class='anchor' id='cstrack'></span>
 
 **CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features**<br>
-***<font color=DarkRed>XiaoKun Feng</font>***\*, [DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), [Shiyu, Hu\*](https://huuuuusy.github.io/), et.al <br>
+***<font color=DarkRed>Xiaokun Feng</font>***\*, [DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), [Shiyu, Hu\*](https://huuuuusy.github.io/), et.al <br>
 *ICML 2025 (CCF-A Conference)*<br>
-📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+📌 RGB-X Tracking 📌 Foundation Model Design 📌 Compact Spatiotemporal Modeling<br>
 [📃 Paper](https://arxiv.org/abs/2507.19875)
 </div>
 </div>
@@ -179,9 +188,9 @@ Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>XiaoKun Feng</font>***\*, e
 <span class='anchor' id='ctvlt'></span>
 
 **Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**<br>
-***<font color=DarkRed>XiaoKun Feng</font>***\*, [DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), [Shiyu, Hu\*](https://huuuuusy.github.io/), et.al <br>
+***<font color=DarkRed>Xiaokun Feng</font>***\*, [DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), [Shiyu, Hu\*](https://huuuuusy.github.io/), et.al <br>
 *ICASSP 2025 (CCF-B Conference)*<br>
-📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+📌 Visual Language Tracking 📌  Foundation Model 📌  Multimodal Cue Utilization<br>
 [📃 Paper](https://arxiv.org/pdf/2412.19648)
 </div>
 </div>
@@ -193,10 +202,10 @@ Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>XiaoKun Feng</font>***\*, e
 <span class='anchor' id='memvlt'></span>
 
 **MemVLT: Vision-language tracking with adaptive memory-based prompts**<br>
-***<font color=DarkRed>XiaoKun Feng</font>***\*, [Xuchen Li](https://github.com/Xuchen-Li), [Shiyu, Hu\*](https://huuuuusy.github.io/), et.al <br>
+***<font color=DarkRed>Xiaokun Feng</font>***\*, [Xuchen Li](https://github.com/Xuchen-Li), [Shiyu, Hu\*](https://huuuuusy.github.io/), et.al <br>
 *NeurIPS 2024 (CCF-A Conference)*<br>
-📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
-[📃 Paper](https://arxiv.org/abs/2507.19875)
+📌 Visual Language Tracking 📌 Memory-Based Prompt Adaptation 📌 Complementary Learning Systems Theory<br>
+[📃 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/1af3e0bf5905e33789979f666c31192d-Paper-Conference.pdf)
 </div>
 </div>
 
@@ -207,9 +216,9 @@ Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>XiaoKun Feng</font>***\*, e
 <span class='anchor' id='cpdtrack'></span>
 
 **Beyond accuracy: Tracking more like human via visual search**<br>
-[DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), [Shiyu, Hu\*](https://huuuuusy.github.io/), ***<font color=DarkRed>XiaoKun Feng</font>***\*, et.al <br>
+[DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), [Shiyu, Hu\*](https://huuuuusy.github.io/), ***<font color=DarkRed>Xiaokun Feng</font>***\*, et.al <br>
 *NeurIPS 2024 (CCF-A Conference)*<br>
-📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+📌 Human-like Visual Tracking 📌 Central-Peripheral Dichotomy Theory 📌 Spatio-Temporal Discontinuity Challenge<br>
 [📃 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/050f8591be3874b52fdac4e1060eeb29-Paper-Conference.pdf)
 </div>
 </div>
@@ -221,9 +230,9 @@ Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>XiaoKun Feng</font>***\*, e
 <span class='anchor' id='lkrobust'></span>
 
 **Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness**<br>
-Honghao Chen, Yurong Zhang, ***<font color=DarkRed>XiaoKun Feng</font>***\*, et.al <br>
+Honghao Chen, Yurong Zhang, ***<font color=DarkRed>Xiaokun Feng</font>***\*, et.al <br>
 *ICML 2024 (CCF-A Conference)*<br>
-📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+📌 Vision Transformers (ViTs) 📌 Large Kernel Convolutional Networks 📌 Robustness<br>
 [📃 Paper](https://arxiv.org/pdf/2407.08972)
 </div>
 </div>
@@ -236,8 +245,10 @@ Honghao Chen, Yurong Zhang, ***<font color=DarkRed>XiaoKun Feng</font>***\*, et.
   
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
 
-Xuchen Li, **[Xiaokun Feng](https://github.com/XiaokunFeng)**, [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Dailing Zhang, Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+[Xuchen Li](https://github.com/Xuchen-Li), ***<font color=DarkRed>Xiaokun Feng</font>***\*, [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Dailing Zhang, Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
+📌 Visual Language Tracking 📌 Large Language Model 📌 Evaluation Technique<br>
+[📃 Paper](https://openaccess.thecvf.com/content/CVPR2024W/VDU/papers/Li_DTLLM-VLT_Diverse_Text_Generation_for_Visual_Language_Tracking_Based_on_CVPRW_2024_paper.pdf)
 CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
 </div>
 </div>
@@ -248,9 +259,10 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
   
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
 
-[Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://wmeiqi.github.io/), **[Xiaokun Feng](https://github.com/XiaokunFeng)**, et.al
+[Shiyu Hu](https://huuuuusy.github.io/), [DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), [Meiqi Wu](https://wmeiqi.github.io/), ***<font color=DarkRed>Xiaokun Feng</font>***\*, et.al
 
-NeurIPS 2023 (CCF-A Conference)**<br>
+📌 Visual Language Tracking 📌 Long Video Understanding and Reasoning 📌 Hierarchical Semantic Information Annotation<br>
+*NeurIPS 2023 (CCF-A Conference)*<br>
   [[**Paper**](https://xuchen-li.github.io/files/MGIT.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
 </div>
