@@ -75,42 +75,66 @@ Beijing Institute of Technology, Beijing
 
 ## ☑️ Ongoing Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Under Review</div><img src='images/narrlv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/narrlv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+<span class='anchor' id='narrlv'></span>
+  
 **NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation**
 
-**[Xiaokun Feng](https://github.com/XiaokunFeng)**, XHaiming Yu, [Meiqi Wu](https://wmeiqi.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), et.al
+***<font color=DarkRed>XiaoKun Feng</font>***, Haiming Yu, [Meiqi Wu](https://wmeiqi.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), et.al
 
+Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Under Review</div><img src='images/omini_effect.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/s2guidance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+<span class='anchor' id='s2guidance'></span>
+  
+**$S^2$-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models**
+
+Chubin Chen, Jiashu Zhu, ***<font color=DarkRed>XiaoKun Feng</font>***, et.al
+
+Under Review
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/omini_effect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='omini_effect'></span>
+  
 **Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation**
 
-Fangyuan Mao, Aiming Hao, Jintao Chen, Dongxia Liu, **[Xiaokun Feng](https://github.com/XiaokunFeng)**, et.al
+Fangyuan Mao, Aiming Hao, Jintao Chen, Dongxia Liu, ***<font color=DarkRed>XiaoKun Feng</font>***, et.al
 
+Under Review
 </div>
 </div>
+
+
 
 ## ✅ Acceptance
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/cos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/cos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class='anchor' id='DTLLM'></span>
-  
-**Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Reward**
 
-Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>XiaoKun Feng</font>***\*, et.al
+<span class='anchor' id='cos'></span>
 
-NeurIPS 2025
+**Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Reward**<br>
+Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>XiaoKun Feng</font>***\*, et.al <br>
+*NeurIPS 2025 (CCF-A Conference)*<br>
+📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+[📃 Paper](https://arxiv.org/abs/2507.19875)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../../images/ATCTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/atctrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='ATCTrack'></span>
+<span class='anchor' id='atctrack'></span>
 
 **ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking**<br>
 ***<font color=DarkRed>XiaoKun Feng</font>***\*, [Shiyu, Hu\*](https://huuuuusy.github.io/), [Xuchen, Li](https://github.com/Xuchen-Li), [DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), et.al <br>
