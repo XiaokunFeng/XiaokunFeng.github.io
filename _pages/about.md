@@ -32,7 +32,8 @@ Currently, my research focuses on video multimodal tracking and video generation
 - **2025.06**: 📝Two papers ([ATCTrack](https://arxiv.org/pdf/2507.19875?), [VMBench](https://arxiv.org/pdf/2503.10076)) have been accepted by International Conference on Computer Vision (**ICCV**, CCF-A conference). ATCTrack was recognized as a **<font color=DarkRed>Highlight</font>** paper.
 - **2025.05**: 📝One paper ([CSTrack](https://arxiv.org/pdf/2505.19434?)) has been accepted by International Conference on Machine Learning (**ICML**, CCF-A conference). 
 - **2025.01**: 📝One paper ([CTVLT](https://arxiv.org/pdf/2412.19648)) has been accepted by IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**, CCF-B conference). 
-- **2024.09**: 📝Two papers ([MemVLT](https://huuuuusy.github.io/#MemVLT) and [CPDTrack](https://huuuuusy.github.io/#CPDTrack)) have been accepted by Conference on Neural Information Processing Systems (**NeurIPS**, CCF-A Conference).
+- **2024.09**: 📝Two papers ([MemVLT](https://proceedings.neurips.cc/paper_files/paper/2024/file/1af3e0bf5905e33789979f666c31192d-Paper-Conference.pdf) and [CPDTrack](https://proceedings.neurips.cc/paper_files/paper/2024/file/050f8591be3874b52fdac4e1060eeb29-Paper-Conference.pdf)) have been accepted by Conference on Neural Information Processing Systems (**NeurIPS**, CCF-A Conference).
+- **2024.05**: 📝One paper ([LKRobust](https://arxiv.org/pdf/2407.08972)) has been accepted by International Conference on Machine Learning (**ICML**, CCF-A conference). 
 - **2024.04**: 📣 We will present our work (**Global Instance Tracking**) at **TPAMI2023** during the [**VALSE2024**](http://www.valser.org/2024/#/) poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in visual object/language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us (see our [**Poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information).
 - **2024.04**: 📝 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted by the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge as **Oral Presentation** (**CVPRW**, Workshop in CCF-A Conference, Oral)!
 - **2023.09**: 📝 One [**paper**](https://xuchen-li.github.io/#MGIT) has been accepted by the 37th Conference on Neural Information Processing Systems (**NeurIPS**, CCF-A Conference, Poster)!
@@ -45,14 +46,14 @@ Currently, my research focuses on video multimodal tracking and video generation
 
 ## Video multimodal tracking
   
-- Investigating multi-modal tracking to address challenges related to integrating visual and linguistic information, thereby improving tracking accuracy.
-- Exploring the extension of VLT research to tasks involving comprehensive video understanding, aiming to interpret and contextualize objects in videos based on linguistic input.
-- Utilizing Large Language Models (LLMs) in conjunction with visual language tracking to explore human-computer interaction patterns, contributing to the development of more intuitive and user-friendly interactions.
+- Investigating multimodal tracking to address challenges in integrating visual information with auxiliary modalities (e.g., language, heat maps, infrared images, and depth maps), thereby enhancing tracking accuracy.
+- Leveraging Large Language Models (LLMs) in conjunction with visual-language tracking to explore human–computer interaction patterns, contributing to the development of more intuitive and user-friendly interaction systems.
+- Following the paradigm of unified foundation models by jointly utilizing datasets from multiple modalities to train a single model capable of handling all multimodal tracking tasks.
 
 ## Video generation
 
-- Researching visual object tracking algorithms across diverse scenes to enhance single object tracking performance in various scenarios.
-- Exploring the robustness and generalization aspects of single object tracking algorithms to ensure consistent and reliable performance across diverse scenarios.
+- Focusing on long video generation, aiming to improve existing evaluation benchmarks and advance model design in this field.
+- Exploring the applications of foundation video generation models in various downstream tasks.
 
 # 📖 Educations
 
@@ -83,7 +84,41 @@ Beijing Institute of Technology, Beijing
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Under Review</div><img src='images/omini_effect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation**
+
+Fangyuan Mao, Aiming Hao, Jintao Chen, Dongxia Liu, **[Xiaokun Feng](https://github.com/XiaokunFeng)**, et.al
+
+</div>
+</div>
+
 ## ✅ Acceptance
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/cos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='DTLLM'></span>
+  
+**Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Reward**
+
+Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>XiaoKun Feng</font>***\*, et.al
+
+NeurIPS 2025
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../../images/ATCTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='ATCTrack'></span>
+
+**ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking**<br>
+***<font color=DarkRed>XiaoKun Feng</font>***\*, [Shiyu, Hu\*](https://huuuuusy.github.io/), [Xuchen, Li](https://github.com/Xuchen-Li), [DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), et.al <br>
+*[International Conference on Computer Vision](https://iccv.thecvf.com/) (CCF-A Conference, **<font color=DarkRed>Highlight</font>**)*<br>
+📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+[📃 Paper](https://arxiv.org/abs/2507.19875)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
