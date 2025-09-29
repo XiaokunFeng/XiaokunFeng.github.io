@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "XiaokunFeng's homepage!"
-description              : "A Ph.D. student at Institute of Automation, Chinese Academy of Sciences (CASIA). Major in Pattern Recognition and Intelligent System, Computer Vision. Research on object tracking."
+description              : "A Ph.D. student at Institute of Automation, Chinese Academy of Sciences (CASIA). Major in Pattern Recognition and Intelligent System, Computer Vision. Research on video multimodal tracking and video generation tasks."
 repository               : "XiaokunFeng/XiaokunFeng.github.io"
 
 google_scholar_stats_use_cdn : true
