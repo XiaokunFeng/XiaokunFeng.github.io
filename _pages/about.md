@@ -118,7 +118,7 @@ Under Review
 
 ## ✅ Acceptance
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/cos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/cos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class='anchor' id='cos'></span>
@@ -138,11 +138,97 @@ Honghao Chen*, Xingzhou Lou*, ***<font color=DarkRed>XiaoKun Feng</font>***\*, e
 
 **ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking**<br>
 ***<font color=DarkRed>XiaoKun Feng</font>***\*, [Shiyu, Hu\*](https://huuuuusy.github.io/), [Xuchen, Li](https://github.com/Xuchen-Li), [DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), et.al <br>
-*[International Conference on Computer Vision](https://iccv.thecvf.com/) (CCF-A Conference, **<font color=DarkRed>Highlight</font>**)*<br>
+*ICCV 2025 (CCF-A Conference, **<font color=DarkRed>Highlight</font>**)*<br>
 📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
 [📃 Paper](https://arxiv.org/abs/2507.19875)
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/vmbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='vmbench'></span>
+
+**VMBench: A Benchmark for Perception-Aligned Video Motion Generation**<br>
+***Xinran Ling, Chen Zhu, Meiqi Wu, Hangyu Li, <font color=DarkRed>XiaoKun Feng</font>***\*, et.al <br>
+*ICCV 2025 (CCF-A Conference)*<br>
+📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+[📃 Paper](https://arxiv.org/pdf/2503.10076)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/cstrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='cstrack'></span>
+
+**CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features**<br>
+***<font color=DarkRed>XiaoKun Feng</font>***\*, [DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), [Shiyu, Hu\*](https://huuuuusy.github.io/), et.al <br>
+*ICML 2025 (CCF-A Conference)*<br>
+📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+[📃 Paper](https://arxiv.org/abs/2507.19875)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ctvlt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='ctvlt'></span>
+
+**Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**<br>
+***<font color=DarkRed>XiaoKun Feng</font>***\*, [DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), [Shiyu, Hu\*](https://huuuuusy.github.io/), et.al <br>
+*ICASSP 2025 (CCF-B Conference)*<br>
+📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+[📃 Paper](https://arxiv.org/pdf/2412.19648)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/memvlt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='memvlt'></span>
+
+**MemVLT: Vision-language tracking with adaptive memory-based prompts**<br>
+***<font color=DarkRed>XiaoKun Feng</font>***\*, [Xuchen Li](https://github.com/Xuchen-Li), [Shiyu, Hu\*](https://huuuuusy.github.io/), et.al <br>
+*NeurIPS 2024 (CCF-A Conference)*<br>
+📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+[📃 Paper](https://arxiv.org/abs/2507.19875)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/cpdtrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='cpdtrack'></span>
+
+**Beyond accuracy: Tracking more like human via visual search**<br>
+[DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), [Shiyu, Hu\*](https://huuuuusy.github.io/), ***<font color=DarkRed>XiaoKun Feng</font>***\*, et.al <br>
+*NeurIPS 2024 (CCF-A Conference)*<br>
+📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+[📃 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/050f8591be3874b52fdac4e1060eeb29-Paper-Conference.pdf)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/lkrobust.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='lkrobust'></span>
+
+**Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness**<br>
+Honghao Chen, Yurong Zhang, ***<font color=DarkRed>XiaoKun Feng</font>***\*, et.al <br>
+*ICML 2024 (CCF-A Conference)*<br>
+📌 Visual Language Tracking 📌 Multimodal Learning 📌 Adaptive Prompts<br>
+[📃 Paper](https://arxiv.org/pdf/2407.08972)
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -162,16 +248,11 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
   
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
 
-[Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://wmeiqi.github.io/), **[Xiaokun Feng](https://github.com/XiaokunFeng)**, Xuchen Li, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+[Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://wmeiqi.github.io/), **[Xiaokun Feng](https://github.com/XiaokunFeng)**, et.al
 
-NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
+NeurIPS 2023 (CCF-A Conference)**<br>
   [[**Paper**](https://xuchen-li.github.io/files/MGIT.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]
-  [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
-  [[**Platform**](http://videocube.aitestunion.com/)]
-  [[**Toolkit**](https://github.com/huuuuusy/videocube-toolkit)]
-  [[**Dataset**](http://videocube.aitestunion.com/downloads)]
 </div>
 </div>
 
