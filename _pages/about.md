@@ -83,6 +83,21 @@ Beijing Institute of Technology, Beijing
 
 ## ✅ Acceptance
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/narrlv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='narrlv'></span>
+  
+**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation**
+
+***<font color=DarkRed>Xiaokun Feng</font>***, Haiming Yu, [Meiqi Wu](https://wmeiqi.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), et.al <br>
+*ICLR 2026 (CCF-A Conference)*<br>
+
+📌 Long Video Generation 📌 Perception-Aligned Evaluation 📌 Narrative Content Assessment<br>
+[📃 Paper](https://arxiv.org/pdf/2507.11245?)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/s2guidance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='s2guidance'></span>
@@ -97,20 +112,6 @@ Chubin Chen, Jiashu Zhu, ***<font color=DarkRed>Xiaokun Feng</font>***, et.al <b
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/narrlv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<span class='anchor' id='narrlv'></span>
-  
-**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation**
-
-***<font color=DarkRed>Xiaokun Feng</font>***, Haiming Yu, [Meiqi Wu](https://wmeiqi.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), et.al <br>
-*ICLR 2026 (CCF-A Conference)*<br>
-
-📌 Long Video Generation 📌 Perception-Aligned Evaluation 📌 Narrative Content Assessment<br>
-[📃 Paper](https://arxiv.org/pdf/2507.11245?)
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/omini_effect.png' alt="sym" width="100%"></div></div>
@@ -128,6 +129,21 @@ Fangyuan Mao, Aiming Hao, Jintao Chen, Dongxia Liu, ***<font color=DarkRed>Xiaok
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/ImagerySearch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='omini_effect'></span>
+  
+**ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints**
+
+Meiqi Wu, Jiashu Zhu, ***<font color=DarkRed>Xiaokun Feng</font>***, et.al  <br>
+*AAAI 2026 (CCF-A Conference)*<br>
+
+
+📌 Visual Effects Generation 📌 Multi-Effect Spatial Control 📌 Prompt-Guided Generation<br>
+[📃 Paper](https://arxiv.org/pdf/2508.07981)
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/cos.png' alt="sym" width="100%"></div></div>
