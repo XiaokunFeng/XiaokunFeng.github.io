@@ -22,12 +22,15 @@ redirect_from:
 Hi, I am **Xiaokun Feng <font face="楷体">(丰效坤)</font>**!
 I'm a Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow). Additionally, I'm a member of **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a>**.
 
-Currently, my research focuses on video multimodal tracking and video generation tasks. If you are intrigued by my work or wish to collaborate, feel free to reach out to me.
+Currently, my research focuses on video multimodal tracking, video generation and world modeling tasks. If you are intrigued by my work or wish to collaborate, feel free to reach out to me.
 
 
 
 # 🔥 News
-- **2025.09**: 📝One co-first author paper ([CoS](https://arxiv.org/pdf/2509.19003)) has been accepted by the 39th Conference on Neural Information Processing Systems (**NeurIPS**, CCF-A Conference, Poster).
+- **2026.02**:: 📝One text-conditioned MeanFlow generation work has been accepted by the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**, CCF-A Conference).
+- **2026.01**:: 📝Two papers (NarrLV and $S^2$-Guidance) have been accepted by the 14th International Conference on Learning Representations (**ICLR**, CCF-A Conference).
+- **2025.09**:: 📝Two papers (Omni-effects and ImagerySearch) have been accepted by the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**, CCF-A Conference).
+- **2025.09**: 📝One co-first author paper ([CoS](https://arxiv.org/pdf/2509.19003)) has been accepted by the 39th Conference on Neural Information Processing Systems (**NeurIPS**, CCF-A Conference).
 - **2025.08**: 📣Our new benchmark ([NarrLV](https://arxiv.org/pdf/2507.11245?)) is now available! It is a novel benchmark to evaluate long video generation models from the perspective of narrative expressiveness.
 - **2025.06**: 📝Two papers ([ATCTrack](https://arxiv.org/pdf/2507.19875?), [VMBench](https://arxiv.org/pdf/2503.10076)) have been accepted by International Conference on Computer Vision (**ICCV**, CCF-A conference). ATCTrack was recognized as a **<font color=DarkRed>Highlight</font>** paper.
 - **2025.05**: 📝One paper ([CSTrack](https://arxiv.org/pdf/2505.19434?)) has been accepted by International Conference on Machine Learning (**ICML**, CCF-A conference). 
