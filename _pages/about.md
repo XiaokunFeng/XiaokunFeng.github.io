@@ -28,8 +28,8 @@ Currently, my research focuses on video multimodal tracking, video generation an
 
 # 🔥 News
 - **2026.02**:: 📝One text-conditioned MeanFlow generation work has been accepted by the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**, CCF-A Conference).
-- **2026.01**:: 📝Two papers (NarrLV and $S^2$-Guidance) have been accepted by the 14th International Conference on Learning Representations (**ICLR**, CCF-A Conference).
-- **2025.09**:: 📝Two papers (Omni-effects and ImagerySearch) have been accepted by the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**, CCF-A Conference).
+- **2026.01**:: 📝Two papers ([NarrLV](https://amap-ml.github.io/NarrLV-Website/) and [$S^2$-Guidance](https://s2guidance.github.io/)) have been accepted by the 14th International Conference on Learning Representations (**ICLR**, CCF-A Conference).
+- **2025.09**:: 📝Two papers ([Omni-effects](https://amap-ml.github.io/Omni-Effects.github.io/) and [ImagerySearch](https://github.com/AMAP-ML/ImagerySearch/)) have been accepted by the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**, CCF-A Conference).
 - **2025.09**: 📝One co-first author paper ([CoS](https://arxiv.org/pdf/2509.19003)) has been accepted by the 39th Conference on Neural Information Processing Systems (**NeurIPS**, CCF-A Conference).
 - **2025.08**: 📣Our new benchmark ([NarrLV](https://arxiv.org/pdf/2507.11245?)) is now available! It is a novel benchmark to evaluate long video generation models from the perspective of narrative expressiveness.
 - **2025.06**: 📝Two papers ([ATCTrack](https://arxiv.org/pdf/2507.19875?), [VMBench](https://arxiv.org/pdf/2503.10076)) have been accepted by International Conference on Computer Vision (**ICCV**, CCF-A conference). ATCTrack was recognized as a **<font color=DarkRed>Highlight</font>** paper.
@@ -53,10 +53,11 @@ Currently, my research focuses on video multimodal tracking, video generation an
 - Leveraging Large Language Models (LLMs) in conjunction with visual-language tracking to explore human–computer interaction patterns, contributing to the development of more intuitive and user-friendly interaction systems.
 - Following the paradigm of unified foundation models by jointly utilizing datasets from multiple modalities to train a single model capable of handling all multimodal tracking tasks.
 
-## Video generation
+## Video generation and world modeling
 
 - Focusing on long video generation, aiming to improve existing evaluation benchmarks and advance model design in this field.
 - Exploring the applications of foundation video generation models in various downstream tasks.
+- 
 
 # 📖 Educations
 
