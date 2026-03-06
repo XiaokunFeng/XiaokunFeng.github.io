@@ -57,7 +57,7 @@ Currently, my research focuses on video multimodal tracking, video generation an
 
 - Focusing on long video generation, aiming to improve existing evaluation benchmarks and advance model design in this field.
 - Exploring the applications of foundation video generation models in various downstream tasks.
-- 
+- Developing interactive world models that support long-horizon generation, real-time simulation, strong temporal consistency, and flexible controllability.
 
 # 📖 Educations
 
@@ -79,31 +79,18 @@ Beijing Institute of Technology, Beijing
 
 ## ☑️ Ongoing Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/narrlv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<span class='anchor' id='narrlv'></span>
-  
-**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation**
-
-***<font color=DarkRed>Xiaokun Feng</font>***, Haiming Yu, [Meiqi Wu](https://wmeiqi.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), et.al
-
-Under Review
-
-📌 Long Video Generation 📌 Perception-Aligned Evaluation 📌 Narrative Content Assessment<br>
-[📃 Paper](https://arxiv.org/pdf/2507.11245?)
-</div>
-</div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/s2guidance.png' alt="sym" width="100%"></div></div>
+## ✅ Acceptance
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/s2guidance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='s2guidance'></span>
   
 **$S^2$-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models**
 
-Chubin Chen, Jiashu Zhu, ***<font color=DarkRed>Xiaokun Feng</font>***, et.al
-
-Under Review
+Chubin Chen, Jiashu Zhu, ***<font color=DarkRed>Xiaokun Feng</font>***, et.al <br>
+*ICLR 2026 (CCF-A Conference)*<br>
 
 📌 Diffusion Models 📌 Guidance Optimization 📌 Stochastic Sub-Network Techniques<br>
 [📃 Paper](https://arxiv.org/pdf/2508.12880)
@@ -111,16 +98,30 @@ Under Review
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/narrlv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='narrlv'></span>
+  
+**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/omini_effect.png' alt="sym" width="100%"></div></div>
+***<font color=DarkRed>Xiaokun Feng</font>***, Haiming Yu, [Meiqi Wu](https://wmeiqi.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), et.al <br>
+*ICLR 2026 (CCF-A Conference)*<br>
+
+📌 Long Video Generation 📌 Perception-Aligned Evaluation 📌 Narrative Content Assessment<br>
+[📃 Paper](https://arxiv.org/pdf/2507.11245?)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/omini_effect.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='omini_effect'></span>
   
 **Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation**
 
-Fangyuan Mao, Aiming Hao, Jintao Chen, Dongxia Liu, ***<font color=DarkRed>Xiaokun Feng</font>***, et.al
+Fangyuan Mao, Aiming Hao, Jintao Chen, Dongxia Liu, ***<font color=DarkRed>Xiaokun Feng</font>***, et.al  <br>
+*AAAI 2026 (CCF-A Conference)*<br>
 
-Under Review
 
 📌 Visual Effects Generation 📌 Multi-Effect Spatial Control 📌 Prompt-Guided Generation<br>
 [📃 Paper](https://arxiv.org/pdf/2508.07981)
@@ -128,8 +129,6 @@ Under Review
 </div>
 
 
-
-## ✅ Acceptance
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/cos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
