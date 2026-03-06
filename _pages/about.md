@@ -137,7 +137,7 @@ Meiqi Wu, Jiashu Zhu, ***<font color=DarkRed>Xiaokun Feng</font>***, et.al  <br>
 
 
 📌 Visual Effects Generation 📌 Multi-Effect Spatial Control 📌 Prompt-Guided Generation<br>
-[📃 Paper](https://arxiv.org/pdf/2508.07981)
+[📃 Paper](https://arxiv.org/pdf/2510.14847)
 </div>
 </div>
 
