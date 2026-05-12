@@ -28,6 +28,7 @@ Currently, my research focuses on video multimodal tracking, video generation an
 
 
 # 🔥 News
+- **2026.05**: 📝One paper ([MIGA](#miga)) on infinite-frame long video generation has been accepted by International Conference on Machine Learning (**ICML**, CCF-A Conference).
 - **2026.02**:: 📝One text-conditioned MeanFlow generation work has been accepted by the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**, CCF-A Conference).
 - **2026.01**:: 📝Two papers ([NarrLV](https://amap-ml.github.io/NarrLV-Website/) and [$S^2$-Guidance](https://s2guidance.github.io/)) have been accepted by the 14th International Conference on Learning Representations (**ICLR**, CCF-A Conference).
 - **2025.09**:: 📝Two papers ([Omni-effects](https://amap-ml.github.io/Omni-Effects.github.io/) and [ImagerySearch](https://github.com/AMAP-ML/ImagerySearch/)) have been accepted by the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**, CCF-A Conference).
@@ -79,6 +80,20 @@ Beijing Institute of Technology, Beijing
 # 📝 Publications 
 
 ## ✅ Acceptance
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/miga_homepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='miga'></span>
+  
+**Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos**
+
+***<font color=DarkRed>Xiaokun Feng</font>***, Jiashu Zhu, [Meiqi Wu](https://wmeiqi.github.io/), et.al <br>
+*ICML 2026 (CCF-A Conference)*<br>
+
+📌 Long Video Generation 📌 Infinite-Frame Autoregressive Generation 📌 Long-term Temporal Consistency<br>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/narrlv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
