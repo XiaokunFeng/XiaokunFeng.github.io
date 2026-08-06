@@ -28,10 +28,11 @@ Currently, my research focuses on video multimodal tracking, video generation an
 
 
 # 🔥 News
+- **2026.05**: 📝One paper ([DASTrack](#dastrack)) on temporal modeling for visual object tracking has been accepted by European Conference on Computer Vision (**ECCV**, CCF-B Conference).
 - **2026.05**: 📝One paper ([MIGA](#miga)) on infinite-frame long video generation has been accepted by International Conference on Machine Learning (**ICML**, CCF-A Conference).
-- **2026.02**:: 📝One text-conditioned MeanFlow generation work has been accepted by the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**, CCF-A Conference).
-- **2026.01**:: 📝Two papers ([NarrLV](https://amap-ml.github.io/NarrLV-Website/) and [$S^2$-Guidance](https://s2guidance.github.io/)) have been accepted by the 14th International Conference on Learning Representations (**ICLR**, CCF-A Conference).
-- **2025.09**:: 📝Two papers ([Omni-effects](https://amap-ml.github.io/Omni-Effects.github.io/) and [ImagerySearch](https://github.com/AMAP-ML/ImagerySearch/)) have been accepted by the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**, CCF-A Conference).
+- **2026.02**: 📝One text-conditioned MeanFlow generation work has been accepted by the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**, CCF-A Conference).
+- **2026.01**: 📝Two papers ([NarrLV](https://amap-ml.github.io/NarrLV-Website/) and [$S^2$-Guidance](https://s2guidance.github.io/)) have been accepted by the 14th International Conference on Learning Representations (**ICLR**, CCF-A Conference).
+- **2025.09**: 📝Two papers ([Omni-effects](https://amap-ml.github.io/Omni-Effects.github.io/) and [ImagerySearch](https://github.com/AMAP-ML/ImagerySearch/)) have been accepted by the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**, CCF-A Conference).
 - **2025.09**: 📝One co-first author paper ([CoS](https://arxiv.org/pdf/2509.19003)) has been accepted by the 39th Conference on Neural Information Processing Systems (**NeurIPS**, CCF-A Conference).
 - **2025.08**: 📣Our new benchmark ([NarrLV](https://arxiv.org/pdf/2507.11245?)) is now available! It is a novel benchmark to evaluate long video generation models from the perspective of narrative expressiveness.
 - **2025.06**: 📝Two papers ([ATCTrack](https://arxiv.org/pdf/2507.19875?), [VMBench](https://arxiv.org/pdf/2503.10076)) have been accepted by International Conference on Computer Vision (**ICCV**, CCF-A conference). ATCTrack was recognized as a **<font color=DarkRed>Highlight</font>** paper.
@@ -80,6 +81,20 @@ Beijing Institute of Technology, Beijing
 # 📝 Publications 
 
 ## ✅ Acceptance
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/das_eccv26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='dastrack'></span>
+  
+**Rethinking Temporal Modeling in Visual Object Tracking via Decoupled Auxiliary Supervision**
+
+[DaiLing, Zhang](https://scholar.google.com.hk/citations?user=ApH4wOcAAAAJ), [Shiyu, Hu](https://huuuuusy.github.io/), Honghao Fu, ***<font color=DarkRed>Xiaokun Feng</font>***, Yipei Wang, Kang Hao Cheong, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en) <br>
+*ECCV 2026 (CCF-B Conference)*<br>
+
+📌 Visual Object Tracking 📌 Temporal Representation Learning 📌 Multi-Task Learning<br>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/miga_homepage.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -144,7 +159,7 @@ Fangyuan Mao, Aiming Hao, Jintao Chen, Dongxia Liu, ***<font color=DarkRed>Xiaok
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/ImagerySearch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class='anchor' id='omini_effect'></span>
+<span class='anchor' id='imagerysearch'></span>
   
 **ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints**
 
@@ -152,7 +167,7 @@ Meiqi Wu, Jiashu Zhu, ***<font color=DarkRed>Xiaokun Feng</font>***, et.al  <br>
 *AAAI 2026 (CCF-A Conference)*<br>
 
 
-📌 Visual Effects Generation 📌 Multi-Effect Spatial Control 📌 Prompt-Guided Generation<br>
+📌 Video Generation 📌 Test-Time Search 📌 Semantic Dependency Constraints<br>
 [📃 Paper](https://arxiv.org/pdf/2510.14847)
 </div>
 </div>
