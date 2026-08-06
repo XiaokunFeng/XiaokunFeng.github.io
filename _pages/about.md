@@ -77,23 +77,23 @@ Beijing Institute of Technology, Beijing
 
 # 💻 Research Experiences
 
-<div class='school-box'>
-<div><img src='images/casia.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
+<div class='school-box' style="display:flex; align-items:center; gap:20px;">
+<div style="flex:0 0 auto;"><img src='images/casia.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1" style="flex:1;">
 **2022.09 - Present**: Pursuing a Ph.D. degree at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, conducting research on single-object tracking in **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a>**, initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
 </div>
 </div>
 
-<div class='school-box'>
-<div><img src='images/hunyuan.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
+<div class='school-box' style="display:flex; align-items:center; gap:20px;">
+<div style="flex:0 0 auto;"><img src='images/hunyuan.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1" style="flex:1;">
 **2025.10 - Present**: Research Intern at **Hunyuan, Tencent** (Qingyun Program), working on multimodal video generation foundation models and video world models.
 </div>
 </div>
 
-<div class='school-box'>
-<div><img src='images/amap.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
+<div class='school-box' style="display:flex; align-items:center; gap:20px;">
+<div style="flex:0 0 auto;"><img src='images/amap.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1" style="flex:1;">
 **2025.02 - 2025.10**: Research Intern at **AMAP, Alibaba Group**, working on long video generation, evaluation benchmarks, and efficient adaptation of foundation video generation models to downstream tasks.
 </div>
 </div>
