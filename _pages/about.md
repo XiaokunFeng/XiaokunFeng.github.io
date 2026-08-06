@@ -25,6 +25,7 @@ I'm a Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automa
 
 Currently, my research focuses on video multimodal tracking, video generation and world modeling tasks. If you are intrigued by my work or wish to collaborate, feel free to reach out to me.
 
+<font color=DarkRed>I expect to receive my Ph.D. degree in May 2027 and am currently looking for full-time positions. Please send me an email if you are interested!</font>
 
 
 # 🔥 News
