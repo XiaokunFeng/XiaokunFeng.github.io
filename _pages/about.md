@@ -28,6 +28,7 @@ Currently, my research focuses on video multimodal tracking, video generation an
 <font color=DarkRed>I expect to receive my Ph.D. degree in May 2027 and am currently looking for full-time positions. Please send me an email if you are interested!</font>
 
 
+
 # 🔥 News
 - **2026.05**: 📝One paper ([DASTrack](#dastrack)) on temporal modeling for visual object tracking has been accepted by European Conference on Computer Vision (**ECCV**, CCF-B Conference).
 - **2026.05**: 📝One paper ([MIGA](#miga)) on infinite-frame long video generation has been accepted by International Conference on Machine Learning (**ICML**, CCF-A Conference).
@@ -76,7 +77,26 @@ Beijing Institute of Technology, Beijing
 
 # 💻 Research Experiences
 
-* **2022.09 - Present**: Pursuing a Ph.D. degree at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, conducting research on single-object tracking in **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a>**, initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
+<div class='school-box'>
+<div><img src='images/casia.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+**2022.09 - Present**: Pursuing a Ph.D. degree at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, conducting research on single-object tracking in **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a>**, initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/hunyuan.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+**2025.10 - Present**: Research Intern at **Hunyuan, Tencent** (Qingyun Program), working on multimodal video generation foundation models and video world models.
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/amap.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+**2025.02 - 2025.10**: Research Intern at **AMAP, Alibaba Group**, working on long video generation, evaluation benchmarks, and efficient adaptation of foundation video generation models to downstream tasks.
+</div>
+</div>
 
 
 # 📝 Publications 
